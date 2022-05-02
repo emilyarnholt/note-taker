@@ -1,0 +1,21 @@
+{
+    "name": "note-taker", 
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest",
+        "start": "node server.js"
+    },
+    "keywords": [],
+    "author": "Emily Arnholt",
+    "dependencies": {
+        
+    },
+    "devDependencies": {
+        "jest": "^26.0.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/emilyarnholt/note-taker"
+    }
+}
